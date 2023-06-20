@@ -1,0 +1,33 @@
+h1{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+
+}
+h2 {
+    margin-left: 0;
+}
+.block-serials {
+    margin-left: 15px;
+    font-size: 20px;
+}
+.blokc-movies {
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+.click{
+    font-size: small;
+}
+.images{
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+button{
+    font-size: medium;
+    background-color: rgb(233, 233, 233);
+    text-decoration-color: black;
+}
+.paragraf{
+    font-size: 15px;
+
+}
